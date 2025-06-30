@@ -1,5 +1,4 @@
 ## Hi there 👋
 <p align="center">
-  <img src="/workspaces/rafaeljosebraga/eToSsNm65xFUUJSLsz6Lm4.gif"/>
+  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="eToSsNm65xFUUJSLsz6Lm4.gif" width="130" alt="IDEA" ></a>
 </p>
-<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="eToSsNm65xFUUJSLsz6Lm4.gif" width="130" alt="IDEA" ></a>
