@@ -2,4 +2,4 @@
 <p align="center">
   <img src="/workspaces/rafaeljosebraga/eToSsNm65xFUUJSLsz6Lm4.gif"/>
 </p>
-<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img ssrc="rafaeljosebraga/eToSsNm65xFUUJSLsz6Lm4.gif" width="130" alt="IDEA" ></a>
+<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="rafaeljosebraga/eToSsNm65xFUUJSLsz6Lm4.gif" width="130" alt="IDEA" ></a>
